@@ -2,10 +2,14 @@ gst_datasets/
 gst_updated/scripts/data
 .idea/
 venv/
-*.pyc 
+*.pyc
 *__pycache__*
 
 train1.py
 test1.py
 test2.py
 check_env.py
+
+.vscode/
+
+100-gumbel_social_transformer-faster_lstm-lr_0.001-init_temp_0.5-edge_head_0-ebd_64-snl_1-snh_8-seed_1000/

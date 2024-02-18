@@ -1,4 +1,4 @@
-# Transformable Gaussian Reward Model for Robot Navigation
+# Transformable Gaussian Reward Function for Robot Navigation
 This repository contains the codes for our paper titled "Transformable Gaussian Reward Function for Robot Navigation with Deep Reinforcement Learning".
 The original simulation setting and sourcecode come from [here](https://sites.google.com/view/intention-aware-crowdnav/home). If you want to see the original version, please refer to the link above.
 For more details, here is [arXiv preprint]() and [youtube video](https://youtu.be/9x24k75Zj5k?si=cH3sIez7JqN_IZqk) for experiment in real world.
