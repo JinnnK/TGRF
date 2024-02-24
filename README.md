@@ -129,7 +129,7 @@ If you find the code or the paper useful for your research, please cite the foll
   title={Transformable Gaussian Reward Function for Socially-Aware Navigation with Deep Reinforcement Learning},
   author={Jinyeob Kim and Sumin Kang and Sungwoo Yang and Beomjoon Kim and Jargalbaatar Yura and Donghan Kim},
   year={2024},
-  url={https://api.semanticscholar.org/CorpusID:267782955](https://arxiv.org/abs/2402.14569}
+  url={https://arxiv.org/abs/2402.14569}
 }
 
 @inproceedings{liu2022intention,
