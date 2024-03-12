@@ -1,7 +1,7 @@
 # Transformable Gaussian Reward Function for Robot Navigation
 This repository contains the codes for our paper titled "Transformable Gaussian Reward Function for Robot Navigation with Deep Reinforcement Learning".
 The original simulation setting and sourcecode come from [here](https://sites.google.com/view/intention-aware-crowdnav/home). If you want to see the original version, please refer to the link above.
-For more details, here is [arXiv preprint]() and [youtube video](https://youtu.be/9x24k75Zj5k?si=cH3sIez7JqN_IZqk) for experiment in real world.
+For more details, here is [arXiv preprint](https://arxiv.org/abs/2402.14569) and [youtube video](https://youtu.be/9x24k75Zj5k?si=cH3sIez7JqN_IZqk) for experiment in real world.
 
 ## Abstract
 
@@ -125,11 +125,11 @@ To achieve the best performance, I recommend some manual hyperparameter tuning.
 ## Citation
 If you find the code or the paper useful for your research, please cite the following papers:
 ```
-@inproceedings{,
-  title={},
-  author={Jinyeob Kim},
-  booktitle={},
-  year={2024}
+@inproceedings{Kim2024TransformableGR,
+  title={Transformable Gaussian Reward Function for Socially-Aware Navigation with Deep Reinforcement Learning},
+  author={Jinyeob Kim and Sumin Kang and Sungwoo Yang and Beomjoon Kim and Jargalbaatar Yura and Donghan Kim},
+  year={2024},
+  url={https://arxiv.org/abs/2402.14569}
 }
 
 @inproceedings{liu2022intention,
