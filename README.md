@@ -3,6 +3,10 @@ This repository contains the codes for our paper titled "Transformable Gaussian 
 The original simulation setting and sourcecode come from [here](https://sites.google.com/view/intention-aware-crowdnav/home). If you want to see the original version, please refer to the link above.
 For more details, here is [arXiv preprint](https://arxiv.org/abs/2402.14569) and [youtube video](https://youtu.be/9x24k75Zj5k?si=cH3sIez7JqN_IZqk) for experiment in real world.
 
+## Notice
+
+We release next project! Please refer to [here](https://github.com/JinnnK/BNBRLplus)!
+
 ## Abstract
 
 
