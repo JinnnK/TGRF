@@ -43,7 +43,7 @@ This repository is organized in five parts:
 - `rl/` contains the code for the RL policy networks, wrappers for the prediction network, and ppo algorithm.
 - `trained_models/` contains some pretrained models provided by us.
 
-Note that this repository does not include codes for training a trajectory prediction network. Please refer to from [this repo](https://github.com/tedhuang96/gst) instead.
+About the source codes for training a trajectory prediction network, please refer to [GST](https://github.com/tedhuang96/gst).
 
 ## Run the code
 ### Training
