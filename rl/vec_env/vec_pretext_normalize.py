@@ -179,7 +179,7 @@ class VecPretextNormalize(VecEnvWrapper):
         # rews on the left side is merging both of the rewards.
         # rews = torch.tensor([[-5.]])
         # print("rews is : {}".format(rews))
-        # print("reward_furture is : {}".format(reward_future))
+        # print("reward_future is : {}".format(reward_future))
         rews = rews + reward_future.reshape(self.num_envs, 1).cpu().numpy()
         # print("total is : {}".format(rews))
 
